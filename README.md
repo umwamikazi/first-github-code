@@ -1,1 +1,2 @@
-# first-github-code
+# first-github-code 
+Upload the file, the photo
